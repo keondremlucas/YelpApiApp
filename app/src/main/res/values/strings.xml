@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YelpClone</string>
+    <string name="name">name</string>
+    <string name="reviewnum">reviewnum</string>
+    <string name="distance">distance</string>
+    <string name="address">address</string>
+    <string name="food">food</string>
+</resources>
